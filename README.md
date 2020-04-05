@@ -1,6 +1,6 @@
-# Downloading and uploading files in Go
+# Downloading and Uploading files in Go
 
-* For creating a file server using Go (fileserver.go):
+* For creating a **file server** using Go (fileserver.go):
 
 Use the command,
 
@@ -13,7 +13,7 @@ Hit `localhost:8000` in your browser.
 
 There it is! All the files in your current directory would be displayed.
 
-* For uploading files in Go (upload.go):
+* For **uploading files** in Go (upload.go):
 
 Use the command,
 
