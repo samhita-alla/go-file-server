@@ -1,4 +1,4 @@
-# Downloading and Uploading files in Go
+# Download and Upload files using Go
 
 * For creating a **file server** using Go (fileserver.go):
 
@@ -13,7 +13,7 @@ Hit `localhost:8000` in your browser.
 
 There it is! All the files present in the directory from where you would trigger this script would be displayed.
 
-* For **uploading files** in Go (upload.go):
+* For **uploading files** using Go (upload.go):
 
 Use the command,
 
